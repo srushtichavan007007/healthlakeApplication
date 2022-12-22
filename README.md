@@ -9,4 +9,4 @@
   
   aws.region=<aws-region>
   
-  aws.healthlake.base.url=https://healthlake.<your-region>.amazonaws.com/datastore/<your-datastore-id>/r4/
+  aws.healthlake.base.url=<healthlake-url>
